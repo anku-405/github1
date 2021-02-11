@@ -2,10 +2,10 @@
 gidhubworkshop1
 ## Basic Linux Commands
 - pwd
-- cd
+- cd path
 - ls
 - ls -2
-- mesir foldername
+- mkdir foldername
 - rmdir foldername
 - rm filename
 - cd ../
